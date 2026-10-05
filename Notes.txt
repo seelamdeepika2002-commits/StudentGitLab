@@ -1,0 +1,7 @@
+welcome to Linus commands
+This is day3 practice.
+changing the details in the file.
+this is the new change made to the file.
+this is the last chance.
+
+
