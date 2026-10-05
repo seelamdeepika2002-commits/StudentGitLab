@@ -1,2 +1,0 @@
-Welcome to Git Training.
-Linux Commands are easy.
